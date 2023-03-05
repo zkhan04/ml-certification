@@ -7,4 +7,4 @@ Week 3: Logistic Regression
 
 Week 4: One vs. All Logistic Regression and Neural Networks
 
-Week 5: Neural Network Backpropagation
+Week 5: Neural Network Learning (Backpropagation)
