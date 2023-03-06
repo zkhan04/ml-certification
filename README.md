@@ -61,7 +61,7 @@ In this project, I use K-means clustering to compress an image. Afterwards, I us
   - ***computeCentroids.m***: Computes the centroid means for k-means
   - ***kMeansInitCentroids.m***: Initializes the k-means centroids
  
-### Week 9: 
+### Week 9: Anomaly Detection and Collaborative Filtering
 
 In this project, I implemented anomaly detection to detect failing servers on a network. Afterwards, I used collaborative filtering to build a recommender systems for movies.
   - ***estimateGaussian.m***: Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
